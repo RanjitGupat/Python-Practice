@@ -1,0 +1,6 @@
+from module import myFunc
+
+
+
+
+
